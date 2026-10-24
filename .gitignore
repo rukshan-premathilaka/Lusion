@@ -28,3 +28,5 @@ pnpm-debug.log*
 
 # Uploaded user files / local data
 backend/uploads/
+/backend/package-lock.json
+/frontend/package-lock.json
